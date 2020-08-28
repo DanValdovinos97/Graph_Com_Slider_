@@ -9,3 +9,5 @@ Slider_grafico_2 -> Script for network community detection with Girvan-Newmann a
                     Python 3.6 libraries Numpy, NetworkX & Bokeh
                     
 example_1.html -> Output Bokeh plot file of interactive network visualizer; filters edges depending on Edge Weight
+
+Visual example at: https://danvaldovinos97.github.io/Graph_Com_Slider_/example_1.html
